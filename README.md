@@ -25,7 +25,8 @@ Aplicação desenvolvida em NodeJS para controle do Arduino e da tela LCD atrav�
 Firmware desenvolvido em C para Arduino com o objetivo de acionar os módulos relês para controle das luzes, acionar o motor de trava da porta e emitir os sons de controle do ar condicionado. [Link do repositório](https://github.com/GusAntoniassi/maquete-cisi-arduino)
 
 ## Objetivo 5: Demonstrar todas as funcionalidades propostas, tanto em relação ao acesso como quanto ao controle do mesmo (nome, horário, etc).
-Será realizada a demonstração em sala de aula. (Ver pra anexar o vídeo aqui depois)
+Será realizada a demonstração em sala de aula. 
+[Vídeo de demonstração do projeto](https://github.com/GusAntoniassi/maquete-cisi/blob/master/static/video-demo-maquete.mp4?raw=true)
 
 ## Objetivo 6: Demonstrar o relatório com acesso via Web sobre os dados coletados.
 O log de acesso está disponível [aqui](http://18.231.50.4:5000/logs), e demonstra todas as alterações que foram realizadas na maquete no formato JSON, junto com a data e hora da alteração e o endereço IP do usuário que acionou um determinado controle.
