@@ -26,7 +26,7 @@ Firmware desenvolvido em C para Arduino com o objetivo de acionar os módulos re
 
 ## Objetivo 5: Demonstrar todas as funcionalidades propostas, tanto em relação ao acesso como quanto ao controle do mesmo (nome, horário, etc).
 Será realizada a demonstração em sala de aula. 
-[Vídeo de demonstração do projeto](https://github.com/GusAntoniassi/maquete-cisi/blob/master/static/video-demo-maquete.mp4?raw=true)
+[Vídeo de demonstração do projeto](https://gusantoniassi.github.io/maquete-cisi/static/video-demo-maquete.mp4)
 
 ## Objetivo 6: Demonstrar o relatório com acesso via Web sobre os dados coletados.
 O log de acesso está disponível [aqui](http://18.231.50.4:5000/logs), e demonstra todas as alterações que foram realizadas na maquete no formato JSON, junto com a data e hora da alteração e o endereço IP do usuário que acionou um determinado controle.
