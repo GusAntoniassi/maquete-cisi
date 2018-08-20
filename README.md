@@ -6,7 +6,7 @@ Repositório central da maquete do CISI desenvolvida para a prova de automação
 ![Foto da maquete](static/maquete-real.jpg)
 
 ## Objetivo 2: Apresentar o orçamento para a instalação da solução proposta para funcionamento em situação real.
-(link do google docs aqui)
+[Orçamento no Google Docs](https://docs.google.com/spreadsheets/d/1Cl70qei1r-0QKLdMNJqGk4CjxzQSfJpe5XaQkyV6PQc/edit?usp=sharing)
 
 ## Objetivo 3: Apresentar o esquema elétrico/eletrônico da solução proposta.
 (link para o arquivo aqui)
