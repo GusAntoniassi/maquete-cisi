@@ -2,7 +2,8 @@
 Repositório central da maquete do CISI desenvolvida para a prova de automação da gincana da Unipar
 
 ## Objetivo 1: Montar uma maquete que permita instalar e demonstrar as funcionalidades da solução apresentada pela equipe.
-(foto da maquete aqui)
+![Renderização 3D do projeto](static/maquete-render.png)
+![Foto da maquete](static/maquete-real.jpg)
 
 ## Objetivo 2: Apresentar o orçamento para a instalação da solução proposta para funcionamento em situação real.
 (link do google docs aqui)
@@ -27,4 +28,4 @@ Firmware desenvolvido em C para Arduino com o objetivo de acionar os módulos re
 Será realizada a demonstração em sala de aula. (Ver pra anexar o vídeo aqui depois)
 
 ## Objetivo 6: Demonstrar o relatório com acesso via Web sobre os dados coletados.
-O log de acesso está disponível [clicando aqui](http://18.231.50.4:5000/logs), e demonstra todas as alterações que foram realizadas na maquete no formato JSON, junto com a data e hora da alteração e o endereço IP do usuário que acionou um determinado controle.
+O log de acesso está disponível [aqui](http://18.231.50.4:5000/logs), e demonstra todas as alterações que foram realizadas na maquete no formato JSON, junto com a data e hora da alteração e o endereço IP do usuário que acionou um determinado controle.
