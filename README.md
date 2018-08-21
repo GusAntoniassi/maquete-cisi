@@ -1,14 +1,14 @@
 # maquete-cisi
 Repositório central da maquete do CISI desenvolvida para a prova de automação da gincana da Unipar
 
-## Objetivo 1: Montar uma maquete que permita instalar e demonstrar as funcionalidades da solução apresentada pela equipe.
+### Objetivo 1: Montar uma maquete que permita instalar e demonstrar as funcionalidades da solução apresentada pela equipe.
 ![Renderização 3D do projeto](static/maquete-render.png)
 ![Foto da maquete](static/maquete-real.jpg)
 
-## Objetivo 2: Apresentar o orçamento para a instalação da solução proposta para funcionamento em situação real.
+### Objetivo 2: Apresentar o orçamento para a instalação da solução proposta para funcionamento em situação real.
 [Orçamento no Google Docs](https://docs.google.com/spreadsheets/d/1Cl70qei1r-0QKLdMNJqGk4CjxzQSfJpe5XaQkyV6PQc/edit?usp=sharing)
 
-## Objetivo 3: Apresentar o esquema elétrico/eletrônico da solução proposta.
+### Objetivo 3: Apresentar o esquema elétrico/eletrônico da solução proposta.
 Esquema temporário 
 
 ![Esquema elétrico/eletrônico](static/diagrama-maquete-temp.png)
